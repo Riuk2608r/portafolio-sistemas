@@ -4,16 +4,16 @@ export const personalInfo: PersonalInfo = {
   name: "Steven Ivan",
   title: "Estudiante de Ingeniería de Sistemas",
   description: "Apasionado por la tecnología y el desarrollo de software. Especializado en desarrollo web full-stack con experiencia en React, Node.js y bases de datos. Siempre buscando nuevos desafíos y oportunidades para crecer profesionalmente.",
-  image: "/imagenes/whatsapp.jpg", 
+  image: "/images/Steven.jpg", // Ruta desde public/
   resume: "/resume.pdf",
   contact: {
-    email: "tu.email@ejemplo.com",
+    email: "stevenrodriguezinguil@gmail.com",
     phone: "+57 300 123 4567",
-    location: "Bogotá, Colombia",
+    location: "Chimbote, Peru",
     social: {
-      github: "https://github.com/tuusuario",
-      linkedin: "https://linkedin.com/in/tuusuario",
-      twitter: "https://twitter.com/tuusuario"
+      github: "https://github.com/Riuk2608r",
+      linkedin: "https://linkedin.com/in/Riuk2608r",
+      twitter: "https://twitter.com/Riuk2608r"
     }
   }
 };
